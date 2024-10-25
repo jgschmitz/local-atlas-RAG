@@ -11,6 +11,7 @@ This README guides you through setting up a local Retrieval-Augmented Generation
   * **mongorestore:** A tool for restoring data from a dump file to a MongoDB database.
 * **Docker:** Installed on your system ([https://www.docker.com/products/docker-desktop/](https://www.docker.com/products/docker-desktop/))
 * **wget or curl:** Installed on your system (package managers usually handle this)
+* https://www.mongodb.com/docs/atlas/cli/current/atlas-cli-deploy-local/  (this is a great resource also)
 
 
 ### Setting Up a Local Atlas Environment
